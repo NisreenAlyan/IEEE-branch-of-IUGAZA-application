@@ -70,8 +70,8 @@ of papers in the event of conferences or participation in meetings aimed at prom
 
 <b>  Promotional Video </b> <br>
 We created a promotional video and uploaded it to Youtube. Please click on the image to watch our video:
-[![Watch our video](https:(https://www.youtube.com/watch?v=ytHCnIkhfY0)
 
+[![Watch our video](https://https://github.com/NisreenAlyan/IEEE-branch-of-IUGAZA-application/edit/master/README.md-Images/VolunyYouTube.jpg)](https://www.youtube.com/watch?v=ytHCnIkhfY0)
 
 
 <b>  Disclaimer </b>  <br>
