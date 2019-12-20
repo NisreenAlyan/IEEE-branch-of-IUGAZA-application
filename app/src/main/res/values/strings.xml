@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">IEEE</string>
+
+    <string-array name="array_technology">
+        <item> Branch Supervisor</item>
+        <item>Head of the branch</item>
+        <item>sections</item>
+        <item>Committees</item>
+        <item>Staff</item>
+    </string-array>
+
+    <string name="dr_hatem">Dr. Hatem Al-Aydi \n Supervisor of the Student Branch of the Society of Electrical and Electronics Engineers,
+        Islamic University of Gaza, Member of the Faculty of Electrical Engineering, Islamic University,
+        Gaza and Deputy Dean of Scientific Research and Graduate Studies Continue and keep up with the branch of activities until today.</string>
+
+    <string name="dr_hatempage4">Prof. Dr. Hatem Ali Al-Aydi  \n Supervisor of the student branch</string>
+    <string name="eng_jaseerpage4">Jasser Yousef Zourob \n Head of the Student Branch</string>
+    <string name="eng_Basilpage4">  Basil Abu Shammala  \n Supervisor of the Electricity Society - Students</string>
+    <string name="engmalkpage4"> Malk of Ashi  \n Supervisor of the Electricity Society - Students</string>
+    <string name="eng_mohamoudpage4">Mahmoud Ahmed \n Computer Society Supervisor - Students</string>
+    <string name="eng_Kifahpage4"> Kifah Ayed Al - Bashiti Alshaer \n  Supervisor of Computer Society - Students</string>
+
+
+    <string name="ads1_address"> Antenna Analysis and Design Course - Antena </string>
+    <string name="ads2_address"> Android Application Programming Course</string>
+
+    <string name="ads1"> The student branch of the Institute of Electrical and Computer Engineers (IEEE) announces the opening of registration for the course of antenna analysis and design, which will be held at the beginning of July 1-7 </string>
+    <string name="ads2"> The student branch of the Institute of Electrical and Computer Engineers (IEEE) announces the opening of registration for the Android Application Programming Course which will be held at the beginning of July 1-7</string>
+
+
+    <string name="call_us">  IEEE student branch of IUGAZA  \n\n  P.O. Box: Islamic University of Gaza   \n\n  108 El-Remall      \n\n Gaza, Palestine
+        \n\n Office: K314 Room,El-Quds Building
+          \n\n  Islamic University-Gaza    </string>
+
+
+    <string name="eng_jaseer1"> \n Jasser Yousef Zourob  \n Head of the Islamic University Gaza Branch \n
+        Fourth level student in the Department of Electrical Engineering,\n Islamic University of Gaza</string>
+
+
+    <string name="eng_jaseer2"> Chairmans Message:\n
+        Human life is not measured by a number added in front of his name, but measured by the amount of tender he exerts for others, which is the real age of man. This is the motivation that leads me to take matters and initiative to achieve a better future and reality of the process of learning and education and various areas of creativity.
+        Since I was chosen as the head of the branch by the members in 2018-2019, I have spared no time and effort except to make it possible to achieve the goals of the existence of the student branch.
+        I will not dwell on the words of good talk and say what I have to say and invite students to join the scientific and practical centers that contribute to building their personality and raise awareness and awareness of them and develop their practical skills in addition to gaining new experiences and a good way to deal with others and the most important factors of success in the work is good planning and implementation .</string>
+
+
+    <string name="ElectricitySociety"> \n PES - Power and Energy Society \n
+        The largest forum in the world to share the latest technological developments in the electric power sector,
+        develop standards that guide the development and construction of equipment and systems, and to educate members of the sector and the public.
+        The members of the electricity and energy community are pioneers in their field, and they - their business owners - derive the essential benefits from their participation in this unique and distinctive association.
+        The mission of the PES community is to be a leader in providing scientific and engineering information in the field of electric power in order to improve the society and to be the preferred source of professional development for our members.
+        The electricity and energy community is interested in research, development, planning, design, construction, maintenance, installation and commissioning of equipment, structures, materials and energy systems for the conversion, generation, transmission, distribution, storage and use of electricity and energy in a safe, sustainable and economical manner. It is reliable, including measurements and control .. </string>
+
+
+</resources>
+
+
+
+
