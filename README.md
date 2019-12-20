@@ -18,15 +18,13 @@ IEEE Palestine Branch app  is the first application of its kind at the level of 
  [Nisreen Alyan Elholy ](https://github.com/NisreenAlyan )
  
   <p align="righr">                                             
-<img  src= " https://3.top4top.net/p_14495vccr1.jpg   "> 
+<img  src= " https://3.top4top.net/p_14495vccr1.jpg "> 
 </p>
- <br>
  
  <p align="center">                                             
-<img  src= " https://4.top4top.net/p_14490w0jb2.jpg  "> 
+<img  src= " https://4.top4top.net/p_14490w0jb2.jpg"> 
 </p>  
-  <br>
-  <br>
+  
  <b>  	The goals of our app: </b> <br>
 
 Actually, our app is highly significant in the level of local and international field.
@@ -43,29 +41,28 @@ was fundamental reason for giving us the opportunity to participate. We mainly w
   <p align="righr">                                             
 <img  src= " https://5.top4top.net/p_1449783tx3.jpg "> 
 </p>
- <br>
+
  
  <p align="center">                                             
 <img  src= " https://6.top4top.net/p_1449esnia4.jpg   "> 
 </p>  
-  <br>
   
   
 <p align="left">                                             
 <img  src= "  https://1.top4top.net/p_14496ezc35.jpg   "> 
-</p> <br>
+</p> 
 
  <p align="right">                                             
 <img  src= " https://2.top4top.net/p_14496w4ry6.jpg  "> 
-</p>  <br> 
+</p>  
 
 <p align="center">                                             
 <img  src= "https://3.top4top.net/p_1449w4oqb7.jpg "> 
-</p><br>
+</p>
 
 <p align="left">                                             
-<img  src= "  https://4.top4top.net/p_14498zju68.jpg  "> 
-</p><br>
+<img  src= "https://4.top4top.net/p_14498zju68.jpg "> 
+</p>
 
 
  <b>   Why our team is special? </b> <br>
