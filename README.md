@@ -1,7 +1,7 @@
                                                
  <p align="center">
   <a href=" https://github.com/NisreenAlyan/IEEE-branch-of-IUGAZA-application ">
-    <img src="https://6.top4top.net/p_14507odpd1.png" width=240 height=200>
+    <img src="https://6.top4top.net/p_14507odpd1.png">
   </a>
   <h3 align="center">IEEE branch Palestine app </h3>
 </p>
@@ -13,15 +13,14 @@
 
 
  <p align="center">                                             
-<img  src= " https://4.top4top.net/p_1450dv4jf1.jpg  "> 
-</p>  
+<img  src= "https://4.top4top.net/p_1450dv4jf1.jpg"> 
+</p> <br>  
     
 <p align="center">                                             
-<img  src= " https://5.top4top.net/p_1450jx3z82.jpg  "> 
-</p> 
+<img  src= "https://5.top4top.net/p_1450jx3z82.jpg"> 
+</p> <br>
  
 ## Table of contents
-
 - [About the app](#)
 - [Permissions](#)
 - [Versions](#)
@@ -39,8 +38,8 @@ IEEE Palestine Branch app  is the first application of its kind at the level of 
 
 ### GENERAL PREVIEW IEEE Palestine Branch app
  <p align="center">                                             
-<img  src= " https://6.top4top.net/p_145002r343.jpg  ">                                              
-<img  src= "  https://2.top4top.net/p_14508s6ri5.jpg "> 
+<img  src= "https://6.top4top.net/p_145002r343.jpg"> <br>                                             
+<img  src= "https://2.top4top.net/p_14508s6ri5.jpg"> <br>
 </p>
 
 ### 	The goals of our app:
@@ -48,20 +47,20 @@ Actually, our app is highly significant in the level of local and international 
 
 
 <b>   Name of the team : The Elite Ambassadors Team </b> <br>
- <b>    team Leader : </b> 
+<b>    team Leader : </b> 
  [Nisreen Alyan Elholy ](https://github.com/NisreenAlyan )
  
  ### Screenshoot 
  
  <p align="center">                                             
-<img  src= " https://1.top4top.net/p_1450wtqqo4.jpg "> 
+<img  src= "https://1.top4top.net/p_1450wtqqo4.jpg"> <br>
 
 <p align="center">                                             
-<img  src= "  https://4.top4top.net/p_1450vd5r77.jpg "> 
+<img  src= "https://4.top4top.net/p_1450vd5r77.jpg"> <br>
 </p>
 
  <p align="center">                                             
-<img  src= " https://3.top4top.net/p_1450n3b806.jpg " > 
+<img  src= "https://3.top4top.net/p_1450n3b806.jpg" > <br>
 </p>  
 
 
@@ -74,24 +73,22 @@ Actually, our app is highly significant in the level of local and international 
   ### Promo Video IEEE branch Palestine app (Click for full video)
 [![Watch the video](https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/screenshots/DarasaPromosupershort.gif)](https://www.youtube.com/watch?v=1Y5c_pRx2zs)
 
-
-  
+ 
  ## Why our team is different?
 Professionalism has always been our symbol, but this time we are the difference that is made and wherever there are Palestinians, one finds excellence and creativity. The IEEE  branch Palestine app is the first app of its kind to be presented in the ieeemadc contest during its yearly sessions away from stereotypes and repetition in the choice of ideas,this is what we aspire and work for in our elite team.
 Finally, we would like to thank IEEE for its belief in the capabilities of the creators around the world in general and in Palestine in particular and also thanks to the branch of the Islamic University of Palestine represented by its president Dr. Hatem Al-Aydi and the president of the student club and his deputies for their efforts to introduce the organization and the competition through several workshops held and help us in the submission of the competition. To give the best teams of memberships to compete in the top ranks in the final
 
  <p align="center">                                             
-<img  src= "https://5.top4top.net/p_1450eu9j98.jpg "> 
+<img  src= "https://5.top4top.net/p_1450eu9j98.jpg"> <br>
 </p>
  
  
-
 #### CONTRIBUTING
 ### Assets
 * Credit to artists [images,gifs...](https://www.freepik.com/free-vector/student-reading-illustration_826080.htm)
 
 <p align="center">                                             
-<img  src= " https://4.top4top.net/p_1450vd5r77.jpg  "> 
+<img  src= "https://4.top4top.net/p_1450vd5r77.jpg"> <br>
 </p>
 
 ### Promo Video (Click for full video)
