@@ -18,14 +18,19 @@ IEEE Palestine Branch app  is the first application of its kind at the level of 
  [Nisreen Alyan Elholy ](https://github.com/NisreenAlyan )
  
   <p align="righr">                                             
-<img  src= " https://3.top4top.net/p_14495vccr1.jpg "> 
+<img  src= "https://1.top4top.net/p_14493e7in1.jpg"> 
+</p>
+
+   <p align="righr">                                             
+<img  src= "https://5.top4top.net/p_1449783tx3.jpg"> 
 </p>
  
+ 
  <p align="center">                                             
-<img  src= " https://4.top4top.net/p_14490w0jb2.jpg"> 
+<img  src= "https://6.top4top.net/p_1449esnia4.jpg"> 
 </p>  
   
- <b>  	The goals of our app: </b> <br>
+ <b>  	The goals of our app: </b>
 
 Actually, our app is highly significant in the level of local and international field.
 It documents and presents all the competitions, workshops, training courses, and activitiesthat contribute to the
@@ -36,32 +41,30 @@ was fundamental reason for giving us the opportunity to participate. We mainly w
 
 
 
-<b> Screenshots </b> <br>
+<b> Screenshots </b>
 
-  <p align="righr">                                             
-<img  src= " https://5.top4top.net/p_1449783tx3.jpg "> 
-</p>
-
- 
  <p align="center">                                             
-<img  src= " https://6.top4top.net/p_1449esnia4.jpg   "> 
-</p>  
-  
-  
-<p align="left">                                             
-<img  src= "  https://1.top4top.net/p_14496ezc35.jpg   "> 
-</p> 
-
- <p align="right">                                             
-<img  src= " https://2.top4top.net/p_14496w4ry6.jpg  "> 
-</p>  
-
-<p align="center">                                             
 <img  src= "https://3.top4top.net/p_1449w4oqb7.jpg "> 
 </p>
 
-<p align="left">                                             
-<img  src= "https://4.top4top.net/p_14498zju68.jpg "> 
+ <p align="center">                                             
+<img  src= " https://1.top4top.net/p_14496ezc35.jpg"> 
+</p>  
+    
+<p align="center">                                             
+<img  src= "  https://4.top4top.net/p_14490w0jb2.jpg  "> 
+</p> 
+
+ <p align="center">                                             
+<img  src= " https://3.top4top.net/p_14495vccr1.jpg  "> 
+</p>  
+
+<p align="center">                                             
+<img  src= "https://1.top4top.net/p_14496ezc35.jpg "> 
+</p>
+
+<p align="center">                                             
+<img  src= "https://4.top4top.net/p_14498zju68.jpg"> 
 </p>
 
 
@@ -76,7 +79,7 @@ of papers in the event of conferences or participation in meetings aimed at prom
 <b>  Promotional Video </b> <br>
 We created a promotional video and uploaded it to Youtube. Please click on the image to watch our video:
 
-[![Watch our video](https://5.top4top.net/p_1449va1n11.png)](https://www.youtube.com/watch?v=ytHCnIkhfY0)
+[![Watch our video](https://2.top4top.net/p_1449ox7xm1.png)](https://www.youtube.com/watch?v=ytHCnIkhfY0)
 
 
 <b>  Disclaimer </b>  <br>
