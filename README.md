@@ -52,13 +52,13 @@ Actually, our app is highly significant in the level of local and international 
  [Nisreen Alyan Elholy ](https://github.com/NisreenAlyan )
  
  ### Screenshoot 
+ 
  <p align="center">                                             
 <img  src= " https://1.top4top.net/p_1450wtqqo4.jpg "> 
 
 <p align="center">                                             
 <img  src= "  https://4.top4top.net/p_1450vd5r77.jpg "> 
 </p>
-
 
  <p align="center">                                             
 <img  src= " https://3.top4top.net/p_1450n3b806.jpg " > 
@@ -74,6 +74,7 @@ Actually, our app is highly significant in the level of local and international 
   ### Promo Video IEEE branch Palestine app (Click for full video)
 [![Watch the video](https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/screenshots/DarasaPromosupershort.gif)](https://www.youtube.com/watch?v=1Y5c_pRx2zs)
 
+
   
  ## Why our team is different?
 Professionalism has always been our symbol, but this time we are the difference that is made and wherever there are Palestinians, one finds excellence and creativity. The IEEE  branch Palestine app is the first app of its kind to be presented in the ieeemadc contest during its yearly sessions away from stereotypes and repetition in the choice of ideas,this is what we aspire and work for in our elite team.
@@ -83,17 +84,18 @@ Finally, we would like to thank IEEE for its belief in the capabilities of the c
 <img  src= "https://5.top4top.net/p_1450eu9j98.jpg "> 
 </p>
  
-
-### Promo Video (Click for full video)
-[![Watch the video](https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/screenshots/DarasaPromosupershort.gif)](https://www.youtube.com/watch?v=ytHCnIkhfY0)
+ 
 
 #### CONTRIBUTING
 ### Assets
 * Credit to artists [images,gifs...](https://www.freepik.com/free-vector/student-reading-illustration_826080.htm)
 
 <p align="center">                                             
-<img  src= "   "> 
+<img  src= " https://4.top4top.net/p_1450vd5r77.jpg  "> 
 </p>
+
+### Promo Video (Click for full video)
+[![Watch the video](https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/screenshots/DarasaPromosupershort.gif)](https://www.youtube.com/watch?v=ytHCnIkhfY0)
 
 
 ## Versions 
@@ -103,6 +105,7 @@ Finally, we would like to thank IEEE for its belief in the capabilities of the c
 
 #### Developer
 * Homepage:(https://github.com/NisreenAlyan/Abdullah
+
 
 #### Contact information
 * E-mail  : [aa12378918@gmail.com ]
