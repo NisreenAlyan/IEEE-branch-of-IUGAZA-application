@@ -71,7 +71,7 @@ Actually, our app is highly significant in the level of local and international 
   
 
   ### Promo Video IEEE branch Palestine app (Click for full video)
-[![Watch the video](https://b.top4top.io/p_14690ash31.gif)](https://www.youtube.com/watch?v=ytHCnIkhfY0) <p align="center">
+  [![Watch the video](https://b.top4top.io/p_14690ash31.gif)](https://www.youtube.com/watch?v=ytHCnIkhfY0)
 
  
  ## Why our team is different?
@@ -81,7 +81,6 @@ Finally, we would like to thank IEEE for its belief in the capabilities of the c
  <p align="center">                                             
 <img  src= "https://5.top4top.net/p_1450eu9j98.jpg"> <br>
 </p>
- https://www.youtube.com/watch?v=1Y5c_pRx2zs
  
 #### CONTRIBUTING
 ### Assets
@@ -94,7 +93,7 @@ Finally, we would like to thank IEEE for its belief in the capabilities of the c
 
 
 ### Promo Video (Click for full video)
-[![Watch the video](https://b.top4top.io/p_14690ash31.gif)]( https://www.youtube.com/watch?v=1Y5c_pRx2zs) <p align="center">
+[![Watch the video](https://b.top4top.io/p_14690ash31.gif)]( https://www.youtube.com/watch?v=1Y5c_pRx2zs) 
 
 
 ## Versions 
