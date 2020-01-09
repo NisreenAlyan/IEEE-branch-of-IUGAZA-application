@@ -71,7 +71,7 @@ Actually, our app is highly significant in the level of local and international 
   
   
   ### Promo Video IEEE branch Palestine app (Click for full video)
-[![Watch the video](https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/screenshots/DarasaPromosupershort.gif)](https://www.youtube.com/watch?v=1Y5c_pRx2zs)
+[![Watch the video](https://b.top4top.io/p_14690ash31.gif)](https://www.youtube.com/watch?v=1Y5c_pRx2zs)
 
  
  ## Why our team is different?
@@ -92,7 +92,7 @@ Finally, we would like to thank IEEE for its belief in the capabilities of the c
 </p>
 
 ### Promo Video (Click for full video)
-[![Watch the video](https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/screenshots/DarasaPromosupershort.gif)](https://www.youtube.com/watch?v=ytHCnIkhfY0)
+[![Watch the video](https://b.top4top.io/p_14690ash31.gif)](https://www.youtube.com/watch?v=ytHCnIkhfY0)
 
 
 ## Versions 
